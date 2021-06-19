@@ -1,0 +1,8 @@
+Story is split in two separate notes:
+
+Dashboard 2 notes:
+
+Starting location 497, while also the most frequented ending location by about 1/3rd compared to the second-most frequented ending location, has over half of the Top 10 ending locations in a relative vicinity. This indicates potential to scale up availability of bikes and supporting facilities to boost adoption and serviceability. Keeping track of any hikes in bike usage for the most used bikes, rotation by substituting them with the least used bikes, the process will minimise costs and maximise economic lifetime of all bikes. Additionally, it would decrease the servicing requirements for the most used bikes and the risk to users through wear and tear.
+
+Dashboard 3 notes:
+Majority of users are aged between 26 to ~50, with median age ~36. Average trip length is about 33 minutes. Combined with data on the top 5 starting and ending locations, it leads to the creation of two profiles of the average user: the work commuter and leisure user. Bike usage can be more effectively targeted to these demographic groups to boost adoption and attractiveness.
